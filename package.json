@@ -1,9 +1,16 @@
 {
-“name”: “groundhog-bot”,
-“version”: “1.0.0”,
-“description”: “Bot that spams Discord users with the next D&D meeting date”,
-“main”: “groundhog_bot.js”,
-“author”: “SacredVoodoo”,
-“dependencies”: {}
+  "name": "groundhog-bot",
+  "version": "1.0.0",
+  "description": "Bot that spams Discord users with the next D&D meeting date",
+  "main": "groundhog_bot.js",
+  "author": "SacredVoodoo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelKratzer/groundhog_bot.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
 }
-
