@@ -1,0 +1,9 @@
+{
+“name”: “groundhog-bot”,
+“version”: “1.0.0”,
+“description”: “Bot that spams Discord users with the next D&D meeting date”,
+“main”: “groundhog_bot.js”,
+“author”: “SacredVoodoo”,
+“dependencies”: {}
+}
+
